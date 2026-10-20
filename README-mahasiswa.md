@@ -1,13 +1,13 @@
 # PinjamKampus API
 
-- Nama dan NRP:
-- Persona:
+- Nama dan NRP: Ahmad Habibie Dewa Pratama
+- Persona: E
 - Cara menjalankan: `go run .` lalu buka http://localhost:8080
 
 ## Fitur
-- [ ] B1 Sumber daya
-- [ ] B2 Buat peminjaman
-- [ ] B3 Lihat peminjaman (daftar, filter, detail)
+- [X] B1 Sumber daya
+- [X] B2 Buat peminjaman
+- [X] B3 Lihat peminjaman (daftar, filter, detail)
 - [ ] B4 Validasi dan error JSON
 - [ ] B5 Deteksi bentrok (409)
 - [ ] B6 Ubah dan hapus
@@ -16,4 +16,4 @@
 - [ ] Change request
 
 ## Yang belum selesai
-(Tulis jujur bagian mana yang belum berjalan.)
+B4-B7, persona, perubahan front end
