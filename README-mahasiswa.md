@@ -1,6 +1,6 @@
 # PinjamKampus API
 
-- Nama dan NRP: Ahmad Habibie Dewa Pratama
+- Nama dan NRP: Ahmad Habibie Dewa Pratama (5053241019)
 - Persona: E
 - Cara menjalankan: `go run .` lalu buka http://localhost:8080
 
